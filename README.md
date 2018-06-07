@@ -1,3 +1,3 @@
-# YUKATOWOR
+# YUKATOWER
 
 なんとかタワーバトル的なゲームを再現したかった
